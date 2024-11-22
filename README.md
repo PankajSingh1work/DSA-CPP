@@ -1,0 +1,2 @@
+# DSA-CPP
+ Welcome to the jungle of algorithms and data structures! This repo contains all the weirdly wonderful ways to make your code run faster (or at least try). If you’re lost in the forest of linked lists or stuck in the maze of graphs, fear not – this repo has the breadcrumbs to guide you (or confuse you even more, but hey, that’s learning!). C++ inside for that extra challenge and occasional segmentation fault. Happy coding, and remember, recursion is just a fancy way of saying 'I’ll deal with it later'.
